@@ -1,0 +1,13 @@
+{
+  "name": "node-redis-docker",
+  "version": "1.0.0",
+  "description": "Projeto didático de uma aplicação Node.js com Express conectada ao Redis usando Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.13"
+  }
+}
